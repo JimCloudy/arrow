@@ -1,0 +1,22 @@
+.lr{
+	width: 112px;
+	height: 144px;
+	float: left;
+}
+
+.cntr{
+	width: 112px;
+	height: 144px;
+	float: left;
+}
+
+.row{
+	width: 336px;
+}
+
+#holder1, #holder2, #holder3{
+	width: 336px;
+	float: left;
+	background-color: red;
+}
+
